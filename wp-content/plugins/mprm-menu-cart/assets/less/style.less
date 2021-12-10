@@ -1,0 +1,106 @@
+@icon-mprm-cart-zero-cart-font: "\e900";
+@icon-mprm-cart1cart-font: "\e901";
+@icon-mprm-cart2cart-font: "\e906";
+@icon-mprm-cart3cart-font: "\e902";
+@icon-mprm-cart4cart-font: "\e903";
+@icon-mprm-cart5cart-font: "\e907";
+@icon-mprm-cart6cart-font: "\e905";
+@icon-mprm-cart7cart-font: "\e908";
+@icon-mprm-cart8cart-font: "\e909";
+@icon-mprm-cart9cart-font: "\e90a";
+@icon-mprm-cart10cart-font: "\e904";
+
+@font-face {
+  font-family: 'menu-cart';
+  src: url('../font/menu-cart.eot');
+  src: url('../font/menu-cart.eot') format('embedded-opentype'),
+  url('../font/menu-cart.ttf') format('truetype'),
+  url('../font/menu-cart.woff') format('woff'),
+  url('../font/menu-cart.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.mp-menu-cart-li, .form-table {
+  .mprm-cart-font {
+	font-family: 'menu-cart' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-right: 0.25em;
+
+	&.icon-mprm-cartzero {
+	  &:before {
+		content: @icon-mprm-cart-zero-cart-font;
+	  }
+	}
+	&.icon-mprm-cart1 {
+	  &:before {
+		content: @icon-mprm-cart1cart-font;
+	  }
+	}
+	&.icon-mprm-cart2 {
+	  &:before {
+		content: @icon-mprm-cart2cart-font;
+	  }
+	}
+	&.icon-mprm-cart3 {
+	  &:before {
+		content: @icon-mprm-cart3cart-font;
+	  }
+	}
+	&.icon-mprm-cart4 {
+	  &:before {
+		content: @icon-mprm-cart4cart-font;
+	  }
+	}
+	&.icon-mprm-cart5 {
+	  &:before {
+		content: @icon-mprm-cart5cart-font;
+	  }
+	}
+	&.icon-mprm-cart6 {
+	  &:before {
+		content: @icon-mprm-cart6cart-font;
+	  }
+	}
+	&.icon-mprm-cart7 {
+	  &:before {
+		content: @icon-mprm-cart7cart-font;
+	  }
+	}
+	&.icon-mprm-cart8 {
+	  &:before {
+		content: @icon-mprm-cart8cart-font;
+	  }
+	}
+	&.icon-mprm-cart9 {
+	  &:before {
+		content: @icon-mprm-cart9cart-font;
+	  }
+	}
+	&.icon-mprm-cart10 {
+	  &:before {
+		content: @icon-mprm-cart10cart-font;
+	  }
+	}
+  }
+}
+
+.mp-menu-cart-contents + .mp-menu-cart-amount:before {
+  content: '-';
+  margin: 0 0.25em;
+}
+
+.mp-cart-display-right {
+  float: right !important;
+}
+
+.mp-cart-display-left {
+  float: left !important;
+}

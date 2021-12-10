@@ -1,0 +1,321 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Toppings Restaurant Menu\n"
+"POT-Creation-Date: 2020-06-02 23:17+0300\n"
+"PO-Revision-Date: 2016-09-07 14:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mprm-toppings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/metaboxes/check-box-list.php:9
+msgid "Drag and drop to set an order. Type to search."
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:15
+msgid "Checkbox"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:18
+msgid "Radio buttons"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:21
+msgid "Numeric stepper"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:24
+msgid "Price:"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:52
+msgid "Required to be selected"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:55
+msgid "Pricing Options:"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:63
+msgid "Order"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:64
+msgid "Label"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:65 classes/class-view.php:37
+msgid "Price"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:66
+msgid "Default"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:67
+msgid "ID"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:69
+msgid "Actions"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:90
+msgid "Add New Price"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:98
+msgid "Stepper Options:"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:102
+msgid "Minimum item quantity"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:108
+msgid "Maximum item quantity"
+msgstr ""
+
+#: admin/metaboxes/topping_settings.php:122
+msgid "Price for minimum item quantity"
+msgstr ""
+
+#: admin/settings/license-action.php:8
+msgid "Activate License"
+msgstr ""
+
+#: admin/settings/license-action.php:12
+msgid "Deactivate License"
+msgstr ""
+
+#: admin/settings/license-action.php:15
+msgid "Renew License"
+msgstr ""
+
+#: admin/settings/select.php:11
+msgctxt "all dropdown items"
+msgid "All"
+msgstr ""
+
+#: admin/settings/select.php:12
+msgctxt "no dropdown items"
+msgid "None"
+msgstr ""
+
+#: classes/class-core.php:93 templates/buy-form-toppings.php:12
+msgid "Add toppings"
+msgstr ""
+
+#: classes/class-core.php:94 templates/related-toppings.php:7
+msgid "You can order optional toppings"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:39 classes/class-mprm-post-types.php:77
+#: classes/class-mprm-post-types.php:80 classes/models/class-toppings.php:51
+msgid "Toppings"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:40
+msgctxt "shop_order post type singular name"
+msgid "Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:41
+msgid "Add Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:42
+msgid "Add New Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:43
+msgid "Edit"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:44
+msgid "Edit Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:45
+msgid "New Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:46 classes/class-mprm-post-types.php:47
+msgid "View Topping"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:48
+msgid "Search Toppings"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:49
+msgid "No Toppings found"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:50
+msgid "No Toppings found in trash"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:51
+msgid "Parent Toppings"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:52
+msgctxt "Admin menu name"
+msgid "Toppings"
+msgstr ""
+
+#: classes/class-mprm-post-types.php:54
+msgid "This is where store toppings are stored."
+msgstr ""
+
+#: classes/class-view.php:35
+msgid "Image"
+msgstr ""
+
+#: classes/class-view.php:36
+msgid "Type"
+msgstr ""
+
+#: classes/misc/class-plugin-updater.php:200
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: classes/misc/class-plugin-updater.php:208
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "Error"
+msgstr ""
+
+#: classes/models/class-license.php:120
+msgid "until"
+msgstr ""
+
+#: classes/models/class-license.php:138 classes/models/class-license.php:141
+msgid "Inactive"
+msgstr ""
+
+#: classes/models/class-license.php:144
+msgid "Disabled"
+msgstr ""
+
+#: classes/models/class-license.php:150
+msgid "Valid until"
+msgstr ""
+
+#: classes/models/class-license.php:152
+msgid "Valid (Lifetime)"
+msgstr ""
+
+#: classes/models/class-license.php:157
+msgid "Expired"
+msgstr ""
+
+#: classes/models/class-license.php:160
+msgid "Invalid"
+msgstr ""
+
+#: classes/models/class-license.php:163
+msgid "Product ID is not valid"
+msgstr ""
+
+#: classes/models/class-settings.php:51
+msgid "Main"
+msgstr ""
+
+#: classes/models/class-settings.php:93
+msgid "Toppings Addon License"
+msgstr ""
+
+#: classes/models/class-settings.php:103
+msgid "Status"
+msgstr ""
+
+#: classes/models/class-settings.php:109
+msgid "Action"
+msgstr ""
+
+#: classes/models/class-settings.php:135
+msgid "Licenses"
+msgstr ""
+
+#: classes/models/class-settings.php:189
+msgid "Toppings Settings"
+msgstr ""
+
+#: classes/models/class-settings.php:195
+msgid "\"Add a topping\" button label"
+msgstr ""
+
+#: classes/models/class-settings.php:201
+msgid "\"You can order optional toppings\" text"
+msgstr ""
+
+#: classes/models/class-toppings.php:42
+msgid "Visual element"
+msgstr ""
+
+#: functions/hooks-functions.php:37
+msgid "Option Name"
+msgstr ""
+
+#: functions/hooks-functions.php:63
+#, php-format
+msgid "Set ID %s as default price"
+msgstr ""
+
+#: functions/hooks-functions.php:73
+#, php-format
+msgid "Remove price option %s"
+msgstr ""
+
+#: templates/checkout/checkbox.php:16 templates/checkout/radio.php:23
+#: templates/checkout/stepper.php:13
+msgid "Remove"
+msgstr ""
+
+#: templates/related-toppings.php:37
+msgid "Add to Cart"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Restaurant Menu Toppings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://motopress.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This extension allows you to add optional toppings available for additional "
+"purchase along with each menu item of your MotoPress Restaurant menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""

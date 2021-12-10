@@ -1,0 +1,1 @@
+<span><?php echo $license_status ?></span>

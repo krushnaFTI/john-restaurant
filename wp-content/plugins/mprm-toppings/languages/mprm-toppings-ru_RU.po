@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-11-24 11:18+0200\n"
+"PO-Revision-Date: 2017-11-24 17:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: admin/metaboxes/check-box-list.php:9
+msgid "Drag and drop to set an order. Type to search."
+msgstr "Перетащите, чтобы установить порядок. Печатайте для поиска."
+
+#: admin/metaboxes/topping_settings.php:14
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: admin/metaboxes/topping_settings.php:17
+msgid "Radio buttons"
+msgstr "Радио-кнопки"
+
+#: admin/metaboxes/topping_settings.php:20
+msgid "Numeric stepper"
+msgstr "Числовой шаговый"
+
+#: admin/metaboxes/topping_settings.php:23
+msgid "Price:"
+msgstr "Цена:"
+
+#: admin/metaboxes/topping_settings.php:51
+msgid "Required to be selected"
+msgstr "Требуется выбрать"
+
+#: admin/metaboxes/topping_settings.php:54
+msgid "Pricing Options:"
+msgstr "Опции цены:"
+
+#: admin/metaboxes/topping_settings.php:62
+msgid "Order"
+msgstr "Порядок"
+
+#: admin/metaboxes/topping_settings.php:63
+msgid "Label"
+msgstr "Название"
+
+#: admin/metaboxes/topping_settings.php:64
+msgid "Price"
+msgstr "Цена"
+
+#: admin/metaboxes/topping_settings.php:65
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/metaboxes/topping_settings.php:66
+msgid "ID"
+msgstr "ID"
+
+#: admin/metaboxes/topping_settings.php:68
+msgid "Actions"
+msgstr "Действия"
+
+#: admin/metaboxes/topping_settings.php:89
+msgid "Add New Price"
+msgstr "Добавить новую цену"
+
+#: admin/metaboxes/topping_settings.php:97
+msgid "Stepper Options:"
+msgstr "Опции пошагового элемента:"
+
+#: admin/metaboxes/topping_settings.php:101
+msgid "Minimum item quantity"
+msgstr "Минимальное количество единиц"
+
+#: admin/metaboxes/topping_settings.php:107
+msgid "Maximum item quantity"
+msgstr "Максимальное количество единиц"
+
+#: admin/metaboxes/topping_settings.php:121
+msgid "Price for minimum item quantity"
+msgstr "Цена за иинимальное количество единиц"
+
+#: admin/settings/license-action.php:8
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: admin/settings/license-action.php:12
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: admin/settings/license-action.php:15
+msgid "Renew License"
+msgstr "Обновить лицензию"
+
+#: admin/settings/select.php:11
+msgctxt "all dropdown items"
+msgid "All"
+msgstr "Все"
+
+#: admin/settings/select.php:12
+msgctxt "no dropdown items"
+msgid "None"
+msgstr "Ничего"
+
+#: classes/class-core.php:88 templates/buy-form-toppings.php:11
+msgid "Add toppings"
+msgstr "Начинка"
+
+#: classes/class-core.php:89 templates/related-toppings.php:7
+msgid "You can order optional toppings"
+msgstr "Вы можете заказать дополнительные начинки"
+
+#: classes/class-mprm-post-types.php:39 classes/class-mprm-post-types.php:77
+#: classes/class-mprm-post-types.php:80 classes/models/class-toppings.php:51
+msgid "Toppings"
+msgstr "Начинки"
+
+#: classes/class-mprm-post-types.php:40
+msgctxt "shop_order post type singular name"
+msgid "Topping"
+msgstr "Начинка"
+
+#: classes/class-mprm-post-types.php:41
+msgid "Add Topping"
+msgstr "Добавить начинку"
+
+#: classes/class-mprm-post-types.php:42
+msgid "Add New Topping"
+msgstr "Добавить начинку"
+
+#: classes/class-mprm-post-types.php:43
+msgid "Edit"
+msgstr "Редактировать"
+
+#: classes/class-mprm-post-types.php:44
+msgid "Edit Topping"
+msgstr "Редактировать начинку"
+
+#: classes/class-mprm-post-types.php:45
+msgid "New Topping"
+msgstr "Новая начинка"
+
+#: classes/class-mprm-post-types.php:46 classes/class-mprm-post-types.php:47
+msgid "View Topping"
+msgstr "Смотреть начинку"
+
+#: classes/class-mprm-post-types.php:48
+msgid "Search Toppings"
+msgstr "Найти начинки"
+
+#: classes/class-mprm-post-types.php:49
+msgid "No Toppings found"
+msgstr "Начинки не найдены"
+
+#: classes/class-mprm-post-types.php:50
+msgid "No Toppings found in trash"
+msgstr "Начинки не найдены в корзине"
+
+#: classes/class-mprm-post-types.php:51
+msgid "Parent Toppings"
+msgstr "Родительская начинка"
+
+#: classes/class-mprm-post-types.php:52
+msgctxt "Admin menu name"
+msgid "Toppings"
+msgstr "Начинки"
+
+#: classes/class-mprm-post-types.php:54
+msgid "This is where store toppings are stored."
+msgstr "Здесь хранятся начинки."
+
+#: classes/misc/class-plugin-updater.php:200
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Новая версия %1$s доступна. %2$sПосмотреть детали %3$s версии%4$s."
+
+#: classes/misc/class-plugin-updater.php:208
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Нова версия %1$s доступна. %2$s Посмотреть %3$s детали версии %4$s или %5$s "
+"обновить сейчас %6$s."
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "You do not have permission to install plugin updates"
+msgstr "У Вас нет прав для установки обновлений плагина"
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "Error"
+msgstr "Ошибка"
+
+#: classes/models/class-license.php:120
+msgid "until"
+msgstr "до"
+
+#: classes/models/class-license.php:138 classes/models/class-license.php:141
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: classes/models/class-license.php:144
+msgid "Disabled"
+msgstr "Отключено"
+
+#: classes/models/class-license.php:150
+msgid "Valid until"
+msgstr "Действительный до"
+
+#: classes/models/class-license.php:152
+msgid "Valid (Lifetime)"
+msgstr "Действительный (пожизненно)"
+
+#: classes/models/class-license.php:157
+msgid "Expired"
+msgstr "Срок истёк"
+
+#: classes/models/class-license.php:160
+msgid "Invalid"
+msgstr "Недействительный"
+
+#: classes/models/class-license.php:163
+msgid "Product ID is not valid"
+msgstr "ID продукта неверное"
+
+#: classes/models/class-settings.php:51
+msgid "Main"
+msgstr "Главное"
+
+#: classes/models/class-settings.php:93
+msgid "Toppings Addon License"
+msgstr "Лицензия модуля ничинки"
+
+#: classes/models/class-settings.php:99
+msgid "License:"
+msgstr "Лицензия:"
+
+#: classes/models/class-settings.php:109
+msgid "Status"
+msgstr "Статус"
+
+#: classes/models/class-settings.php:115
+msgid "Action"
+msgstr "Действие"
+
+#: classes/models/class-settings.php:141
+msgid "Licenses"
+msgstr "Лицензии"
+
+#: classes/models/class-settings.php:195
+msgid "Toppings Settings"
+msgstr "Настройки ничинки"
+
+#: classes/models/class-settings.php:201
+msgid "\"Add a topping\" button label"
+msgstr "Текст кнопки \"Добавить начинку\""
+
+#: classes/models/class-settings.php:207
+msgid "\"You can order optional toppings\" text"
+msgstr "Текст для \"Вы можете добавить начинку\""
+
+#: classes/models/class-toppings.php:42
+msgid "Visual element"
+msgstr "Визуальный элемент"
+
+#: functions/hooks-functions.php:37
+msgid "Option Name"
+msgstr "Название опции"
+
+#: functions/hooks-functions.php:63
+#, php-format
+msgid "Set ID %s as default price"
+msgstr "Укажите ID %s как цена по-умолчанию"
+
+#: functions/hooks-functions.php:73
+#, php-format
+msgid "Remove price option %s"
+msgstr "Удалить опцию цены %s"
+
+#: templates/checkout/checkbox.php:16 templates/checkout/radio.php:23
+#: templates/checkout/stepper.php:13
+msgid "Remove"
+msgstr "Удалить"
+
+#: templates/related-toppings.php:31
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#. Plugin Name of the plugin/theme
+msgid "Restaurant Menu Toppings"
+msgstr "Restaurant Menu Toppings"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://motopress.com"
+msgstr "https://motopress.com"
+
+#. Description of the plugin/theme
+msgid ""
+"This extension allows you to add optional toppings available for additional "
+"purchase along with each menu item of your MotoPress Restaurant menu."
+msgstr ""
+"Это расширение позволяет добавлять дополнительные наполнители/начинки к "
+"каждому товару вашего ресторана MotoPress."
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#~ msgid "Label for Add a topping button"
+#~ msgstr "Текст для кнопки Добавить начинки"
+
+#~ msgid "Checkboxes"
+#~ msgstr "Флажки"
+
+#~ msgid "Stepper"
+#~ msgstr "Шаговый"
+
+#~ msgid "Required"
+#~ msgstr "Обязательно для заполнения"
+
+#~ msgid "Enable required"
+#~ msgstr "Включить"

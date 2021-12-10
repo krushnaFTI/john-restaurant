@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="mprm_settings">
+      <key name="delivery_pickup_address"/>
+    </key>
+  </admin-texts>
+</wpml-config>

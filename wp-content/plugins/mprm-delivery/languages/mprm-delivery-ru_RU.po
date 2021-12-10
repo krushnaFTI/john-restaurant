@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-22 16:14+0200\n"
+"PO-Revision-Date: 2019-01-22 16:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: admin/admin-table-row.php:8 admin/email/delivery-information.php:3
+#: admin/success-page/delivery-information.php:11
+msgid "Pickup"
+msgstr "Самовывоз"
+
+#: admin/admin-table-row.php:10 admin/checkout/delivery-row.php:3
+#: admin/email/delivery-information.php:5
+#: admin/success-page/delivery-information.php:13
+#: admin/success-page/delivery_cost.php:2
+msgid "Delivery"
+msgstr "Доставка"
+
+#: admin/checkout/delivery-row.php:4 admin/widget-delivery.php:3
+#: classes/models/class-delivery.php:229 classes/models/class-delivery.php:234
+#: classes/models/class-delivery.php:236 classes/models/class-delivery.php:300
+#: classes/models/class-delivery.php:357
+msgid "Free"
+msgstr "Бесплатно"
+
+#: admin/metaboxes/delivery-details.php:3 templates/deliveries-mode.php:2
+msgid "Delivered"
+msgstr "Был доставлен"
+
+#: admin/metaboxes/delivery-details.php:6 templates/deliveries-mode.php:5
+msgid "For collection"
+msgstr "Я заберу заказ сам"
+
+#: admin/metaboxes/delivery-details.php:10
+#: admin/metaboxes/delivery-details.php:11 templates/delivery-form.php:16
+msgid "Address Type"
+msgstr "Тип адреса"
+
+#: admin/metaboxes/delivery-details.php:12 templates/delivery-form.php:23
+msgid "School"
+msgstr "Школа"
+
+#: admin/metaboxes/delivery-details.php:13 templates/delivery-form.php:22
+msgid "Business"
+msgstr "Компания"
+
+#: admin/metaboxes/delivery-details.php:14 templates/delivery-form.php:20
+msgid "Apartment"
+msgstr "Квартира"
+
+#: admin/metaboxes/delivery-details.php:15 templates/delivery-form.php:21
+msgid "House"
+msgstr "Дом"
+
+#: admin/metaboxes/delivery-details.php:16 templates/delivery-form.php:24
+msgid "Other"
+msgstr "Другое"
+
+#: admin/metaboxes/delivery-details.php:19 templates/delivery-form.php:29
+#: templates/delivery-form.php:31
+msgid "Street"
+msgstr "Улица"
+
+#: admin/metaboxes/delivery-details.php:20 templates/delivery-form.php:34
+#: templates/delivery-form.php:36
+msgid "Apt/Ste/Rm"
+msgstr "Квартира/комната"
+
+#: admin/metaboxes/delivery-details.php:21 templates/delivery-form.php:39
+#: templates/delivery-form.php:41
+msgid "Gate Code"
+msgstr "Код двери"
+
+#: admin/metaboxes/delivery-details.php:24 templates/delivery-form.php:44
+#: templates/delivery-form.php:46
+msgid "Notes"
+msgstr "Примечания"
+
+#: admin/metaboxes/delivery-details.php:27
+#: admin/metaboxes/delivery-details.php:53 templates/time-delivery.php:2
+msgid "When is it for?"
+msgstr "На какое время?"
+
+#: admin/metaboxes/delivery-details.php:30
+#: admin/metaboxes/delivery-details.php:55 templates/time-delivery.php:6
+msgid "ASAP, approx."
+msgstr "Как можно быстрее, приблизительно в"
+
+#: admin/metaboxes/delivery-details.php:33
+#: admin/metaboxes/delivery-details.php:59 templates/time-delivery.php:10
+msgid "Later (At a set time)"
+msgstr "Позже (в назначенное время)"
+
+#: admin/settings/license-action.php:8
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: admin/settings/license-action.php:12
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: admin/settings/license-action.php:15
+msgid "Renew License"
+msgstr "Обновить лицензию"
+
+#: admin/settings/select.php:11
+msgctxt "all dropdown items"
+msgid "All"
+msgstr "Все"
+
+#: admin/settings/select.php:12
+msgctxt "no dropdown items"
+msgid "None"
+msgstr "Ничего"
+
+#: admin/success-page/delivery-information.php:8
+msgid "Delivery Method"
+msgstr "Метод доставки"
+
+#: admin/success-page/delivery-information.php:15
+msgid "at"
+msgstr "в"
+
+#: admin/widget-delivery.php:2
+msgid "Delivery:"
+msgstr "Доставка:"
+
+#: classes/misc/class-plugin-updater.php:200
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Новая версия %1$s доступна. %2$sПосмотреть детали %3$s версии%4$s."
+
+#: classes/misc/class-plugin-updater.php:208
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Нова версия %1$s доступна. %2$s Посмотреть %3$s детали версии %4$s или %5$s "
+"обновить сейчас %6$s."
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "You do not have permission to install plugin updates"
+msgstr "У Вас нет прав для установки обновлений плагина"
+
+#: classes/misc/class-plugin-updater.php:395
+msgid "Error"
+msgstr "Ошибка"
+
+#: classes/models/class-delivery.php:93
+msgid "Delivery details"
+msgstr "Детали доставки"
+
+#: classes/models/class-delivery.php:179
+msgid "Delivery cost."
+msgstr "Cтоимость доставки."
+
+#: classes/models/class-delivery.php:184
+msgid "Delivery information."
+msgstr "Информация о доставке."
+
+#: classes/models/class-license.php:122
+msgid "until"
+msgstr "до"
+
+#: classes/models/class-license.php:141 classes/models/class-license.php:144
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: classes/models/class-license.php:147
+msgid "Disabled"
+msgstr "Отключено"
+
+#: classes/models/class-license.php:153
+msgid "Valid until"
+msgstr "Действительный до"
+
+#: classes/models/class-license.php:155
+msgid "Valid (Lifetime)"
+msgstr "Действительный (пожизненно)"
+
+#: classes/models/class-license.php:160
+msgid "Expired"
+msgstr "Срок истёк"
+
+#: classes/models/class-license.php:163
+msgid "Invalid"
+msgstr "Недействительный"
+
+#: classes/models/class-license.php:166
+msgid "Product ID is not valid"
+msgstr "ID продукта неверное"
+
+#: classes/models/class-settings.php:107
+msgid "Main"
+msgstr "Главное"
+
+#: classes/models/class-settings.php:133
+msgid "Licenses"
+msgstr "Лицензии"
+
+#: classes/models/class-settings.php:149
+msgid "Delivery Settings"
+msgstr "Настройки доставки"
+
+#: classes/models/class-settings.php:155
+msgid "Enable Delivery"
+msgstr "Включить доставку"
+
+#: classes/models/class-settings.php:156
+msgid "Allow customers to choose Delivery method on the checkout page."
+msgstr ""
+"Разрешить клиентам выбирать способ доставки на странице оформления заказа."
+
+#: classes/models/class-settings.php:161
+msgid "Price of delivery, set 0 for free"
+msgstr "Стоимость доставки, установите 0 для бесплатной доставки"
+
+#: classes/models/class-settings.php:167
+msgid "Tax status"
+msgstr "Налоговый статус"
+
+#: classes/models/class-settings.php:168
+msgid "Delivery is taxable"
+msgstr "Доставка облагается налогом"
+
+#: classes/models/class-settings.php:173
+msgid "Minimum order amount for free delivery (without currency symbols)"
+msgstr "Минимальная сумма заказа для бесплатной доставки (без символов валюты)"
+
+#: classes/models/class-settings.php:179
+msgid "Enable Pickup"
+msgstr "Включить опцию самовывоза"
+
+#: classes/models/class-settings.php:180
+msgid "Allow customers to choose Pickup method on the checkout page."
+msgstr ""
+"Разрешить клиентам выбирать способ доставки Самовывоз на странице оформления "
+"заказа."
+
+#: classes/models/class-settings.php:185
+msgid ""
+"Address to pick up from, working hours and any other information to be shown "
+"to customer."
+msgstr ""
+"Адрес для получения, рабочее времени и любая другая информации, которая "
+"будет показана клиенту."
+
+#: classes/models/class-settings.php:190
+msgid "Time of Delivery/Pickup"
+msgstr "Время доставки/самовывоза"
+
+#: classes/models/class-settings.php:191
+msgid "Allow customers to choose time of delivery/pickup."
+msgstr "Разрешить клиентам выбирать время доставки/самовывоза."
+
+#: classes/models/class-settings.php:196
+msgid "Minimum time interval from the time of purchase (in minutes)"
+msgstr "Минимальный интервал времени с момента покупки (в минутах)"
+
+#: classes/models/class-settings.php:223
+msgid "Delivery Addon License"
+msgstr "Лицензия модуля доставки"
+
+#: classes/models/class-settings.php:229
+msgid "License:"
+msgstr "Лицензия:"
+
+#: classes/models/class-settings.php:239
+msgid "Status"
+msgstr "Статус"
+
+#: classes/models/class-settings.php:245
+msgid "Action"
+msgstr "Действие"
+
+#: functions/functions.php:124
+msgid "gate:"
+msgstr "ворота:"
+
+#: templates/delivery-form.php:9
+msgid "I would like my order"
+msgstr "Я бы хотел, чтобы мой заказ"
+
+#. Plugin Name of the plugin/theme
+msgid "Restaurant Menu Delivery"
+msgstr "Restaurant Menu Delivery"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://motopress.com"
+msgstr "https://motopress.com"
+
+#. Description of the plugin/theme
+msgid ""
+"This extension enables online sales with delivery services for your "
+"MotoPress Restaurant Menu offering delivery and pickup choices."
+msgstr ""
+"Это расширение позволяет онлайн-продажи с доставкой для вашего MotoPress "
+"Restaurant Menu плагина, предлагая варианты доставки и самовывоза."
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""

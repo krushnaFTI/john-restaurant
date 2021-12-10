@@ -1,0 +1,38 @@
+#mprm-delivery-mode-wrap {
+  margin: 0 0 21px;
+}
+#mprm-delivery-mode-wrap .mprm-delivery-mode-label {
+  font-weight: bold;
+}
+#mprm_delivery_mode_select {
+  margin: 0 0 21px;
+}
+#mprm-delivery-mode-select select {
+  margin: 0 0 21px;
+}
+#mprm_delivery_mode_select-wrapper .mprm-content,
+#mprm-delivery-tabs .mprm-content {
+  display: none;
+}
+#mprm_delivery_mode_select-wrapper input.mprm-type-collection[type=radio]:checked ~ .mprm-content.mprm-type-collection,
+#mprm-delivery-tabs input.mprm-type-collection[type=radio]:checked ~ .mprm-content.mprm-type-collection {
+  display: block;
+}
+#mprm_delivery_mode_select-wrapper input.mprm-type-delivery[type=radio]:checked ~ .mprm-content.mprm-type-delivery,
+#mprm-delivery-tabs input.mprm-type-delivery[type=radio]:checked ~ .mprm-content.mprm-type-delivery {
+  display: block;
+}
+#mprm_delivery_mode_select-wrapper input.mprm-delivery-time-later[type=radio]:checked ~ .mprm-content.mprm-delivery-time-later,
+#mprm-delivery-tabs input.mprm-delivery-time-later[type=radio]:checked ~ .mprm-content.mprm-delivery-time-later {
+  display: block;
+}
+#mprm_delivery_mode_select-wrapper input.mprm-collection-time-later[type=radio]:checked ~ .mprm-content.mprm-collection-time-later,
+#mprm-delivery-tabs input.mprm-collection-time-later[type=radio]:checked ~ .mprm-content.mprm-collection-time-later {
+  display: block;
+}
+.mpde-bold {
+  font-weight: bold;
+}
+#mprm_payment_summary_table table td {
+  padding: .5em 1.387em;
+}
